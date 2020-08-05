@@ -1,0 +1,156 @@
+---
+title: "Mines in Africa"
+author: "Pony Ameri"
+date: "8/5/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(ggplot2)
+library(readr)
+library(tidyverse)
+library(dplyr)
+
+```
+
+
+```{r, echo=FALSE}
+mines<-read_csv("Mines_Africa_Districts.csv")
+region<-read_csv("country_region_africa.csv")
+data<-merge(mines,region, on="countryname")
+df<-data%>%rename(Country=countryname,
+                  Administration1=ADM1,
+                  Administration2=ADM2)
+
+```
+
+
+```{r}
+smry_df<-df%>%
+  filter(mines !=0)%>%
+  group_by(Region,Country)%>%
+  summarize(Mines=sum(mines),AluminiumMines=sum(aluminum_mine),
+            AsbestosMines=sum(asbestos_mine),
+            BariumbariteMines=sum(bariumbarite_mine),
+             BerryliumMines=sum(beryllium_mine),
+            BoronboratesMines=sum( boronborates_mine),
+            ChromiumMines=sum(chromium_mine),CopperMines=sum(copper_mine),
+            DiamondMines=sum(diamond_mine), GoldMines=sum(gold_mine),
+            IronMines=sum(iron_mine),LeadMines=sum(lead_mine),
+            MaganeseMines=sum(manganese_mine),MicaMines=sum(mica_mine),
+            NickelMines=sum(nickel_mine),
+            PhosphorousPhosphatesMines=sum(phosphorusphosphates_mine),
+            PlatinumMines=sum(platinum_mine),ReeMines=sum(ree_mine),
+            SilverMines=sum(silver_mine),SulfurMines=sum(sulfur_mine),
+            TungstenMines=sum(tungsten_mine),StrontiumMines=sum(strontium_mine),
+            TinMines=sum(tin_mine),UraniumMines=sum(uranium_mine),
+            ZincMines=sum(zinc_mine))
+View(smry_df)
+```
+
+```{r}
+ggplot(smry_df, aes(x=Mines))+
+         geom_density(fill="#69b3a2", color="#e9ecef", alpha=0.8)+
+  ggtitle("Mine distribution across Africa") +
+    scale_x_log10()
+
+ggplot(smry_df, aes(x=Mines))+
+         geom_histogram(fill="#69b3a2", color="#e9ecef",bins = 30)+
+  ggtitle("Mine distribution across Africa") +
+    scale_x_log10()
+```
+
+```{r}
+ggplot(smry_df,aes(Region,Mines, fill=Region))+ geom_boxplot() + 
+    labs(title="Box plot", 
+         subtitle="Mine distribution by region",
+         x="Region",
+         y="Total Mines",
+         fill="Region") +  
+  theme(axis.text.x = element_text(angle=45, vjust=0.6))
+
+ggplot(smry_df,aes(Region,Mines,fill=Region))+geom_bar(stat="identity")+ 
+    labs(title="Bar plot", 
+         subtitle="Mine distribution by region",
+         x="Region",
+         y="Total Mines",
+         fill="Region") +  
+  theme(axis.text.x = element_text(angle=45, vjust=0.6)) 
+
+ggplot(smry_df, aes(x=Mines,fill=Region))+
+         geom_density()+
+    scale_x_log10()+
+  ggtitle("Mine distribution across Africa") + 
+    labs(title="Bar plot", 
+         subtitle="Mine distribution by region",
+         x="Region",
+         y="Total Mines",
+         fill="Region") +  
+  theme(axis.text.x = element_text(angle=45, vjust=0.6)) 
+```
+
+```{r}
+ggplot(smry_df,aes(Country,Mines,fill=Region))+geom_bar(stat="identity")+ 
+    labs(title="Bar plot", 
+         subtitle="Mine distribution by country",
+         x="Country",
+         y="Total Mines",
+         fill="Region") + coord_flip()
+# ordered_smry_df<-smry_df %>%
+#   filter(Mines != 0)
+# ordered_smry_df <- ordered_smry_df[order(ordered_smry_df$Mines), ]
+# ordered_smry_df$Country <- factor(ordered_smry_df$Country, levels = ordered_smry_df$Country)
+
+```
+which mineral has the highest number of mines in the continent? 
+```{r}
+mine_type<-data.frame(cbind(Mineral=names(sapply(smry_df[,4:27], max)), Total=unname(sapply(smry_df[,4:27], max))))
+mine_type[['Total']]<-as.numeric(mine_type[['Total']])
+ggplot(mine_type,aes(Mineral,Total))+geom_bar(stat="identity", width=.8)+coord_flip()
+
+```
+which countries have all minerals. Rank countries based on types of minerals they have 
+```{r}
+new_data<- function(){
+  df_list<-list()
+  col<-as.character(unique(mine_type[['Mineral']]))
+  for (i in col){
+    df<-smry_df%>%
+      select(Region,Country,i)%>%
+      mutate(Mineral= unlist(strsplit(i,"Mines"))) %>%
+      rename(Mines=i)%>%
+            filter(Mines !=0)
+    df_list[[i]]<-df
+  }
+  dplyr::bind_rows(df_list)
+}
+View(new_data())
+minerals=new_data()
+```
+
+```{r}
+ggplot(minerals,aes(Mineral,Mines,fill=Region))+geom_bar(stat="identity", width=.8) +  
+  theme(axis.text.x = element_text(angle=80, vjust=0.6)) 
+```
+
+Aluminium
+```{r}
+al<-minerals %>% 
+  filter(Mineral =='Aluminium')
+ggplot(al,aes(Country,Mines))+geom_bar(stat="identity", width=.8) + coord_flip()
+
+```
+
+```{r}
+copper_df<-smry_df%>%
+  filter(CopperMines !=0)%>%
+  select(Region,Country,CopperMines)
+ggplot(copper_df, aes(Country,CopperMines)) + 
+  geom_bar(stat="identity", width=.8, fill="tomato3") +  
+  theme(axis.text.x = element_text(angle=85, vjust=0.6)) +coord_flip()
+copper_df
+ggplot(copper_df, aes(Region,CopperMines)) + 
+  geom_bar(stat="identity", width=.8, fill="tomato3") +  
+  theme(axis.text.x = element_text(angle=85, vjust=0.6)) +coord_flip()
+```
+
