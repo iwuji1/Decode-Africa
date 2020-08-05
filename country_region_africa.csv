@@ -1,50 +1,48 @@
 Region,countryname
-Eastern Africa,Kenya
-Eastern Africa,Uganda
-Eastern Africa,Tnazania
+Northern Africa,Algeria
+Southern Africa,Angola
+Western Africa,Benin
+Southern Africa,Botswana
+Western Africa,Burkina Faso
 Eastern Africa,Burundi
-Eastern Africa,Rwanda
-Southern Africa,Swaziland			
-Western Africa,Togo		
-Northern Africa,Tunisia				
-Southern Africa,Zambia			
-Southern Africa,Zimbabwe
-Northern Africa,Sudan
-Southern Africa,Angola				
-Western Africa,Benin				
-Western Africa,Burkina Faso				
-Southern Africa,Botswana				
-Central Africa Republic				
-Western Africa,Cote d'Ivoire				
-Central Africa,Cameroon				
-Central Africa,Republic of Congo				
+Central Africa,Cameroon
+Central Africa,Central African Republic
+Central Africa,Chad
+Western Africa,Cote d'Ivoire
+Central Africa,Democratic Republic of the Congo
 Eastern Africa,Djibouti
-Northern Africa,Algeria				
-Northern Africa,Egypt				
-Eastern Africa,Eritrea				
-Eastern Africa,Ethiopia				
-Western Africa,Gabon				
-Western Africa,Ghana				
-Western Africa,Guinea				
-Western Africa,Gambia				
-Western Africa,Guinea-Bissau				
-Western Africa,Equatorial Guinea				
-Western Africa,Liberia				
-Northern Africa,Libya				
-Southern Africa,Lesotho				
-Northern Africa,Morocco				
-Eastern Africa,Madagascar				
-Western Africa,Mali				
-Southern Africa,Mozambique				
-Western Africa,Mauritania				
+Northern Africa,Egypt
+Western Africa,Equatorial Guinea
+Eastern Africa,Eritrea
+Eastern Africa,Ethiopia
+Western Africa,Gabon
+Western Africa,Gambia
+Western Africa,Ghana
+Western Africa,Guinea
+Western Africa,Guinea-Bissau
+Eastern Africa,Kenya
+Southern Africa,Lesotho
+Western Africa,Liberia
+Northern Africa,Libya
+Eastern Africa,Madagascar
 Southern Africa,Malawi
-Southern Africa,Namibia				
-Western Africa,Niger				
-Western Africa,Nigeria				
-Eastern Africa,Sudan				
-Western Africa,Senegal				
-Western Africa,Sierra Leone				
-Southern Africa,Swaziland				
-Central Africa,Chad				
-Southern Africa,South Africa				
-Central Africa,Democratic Republic of the Congo				
+Western Africa,Mali
+Western Africa,Mauritania
+Northern Africa,Morocco
+Southern Africa,Mozambique
+Southern Africa,Namibia
+Western Africa,Niger
+Western Africa,Nigeria
+Central Africa,Republic of Congo
+Eastern Africa,Rwanda
+Western Africa,Senegal
+Western Africa,Sierra Leone
+Southern Africa,South Africa
+Northern Africa,Sudan
+Southern Africa,Swaziland
+Eastern Africa,Tanzania
+Western Africa,Togo
+Northern Africa,Tunisia
+Eastern Africa,Uganda
+Southern Africa,Zambia
+Southern Africa,Zimbabwe
