@@ -1,0 +1,836 @@
+,countrycode,countryname,ADM1,ADM2,mines,aluminum_mine,asbestos_mine,bariumbarite_mine,beryllium_mine,chromium_mine,copper_mine,diamond_mine,gold_mine,iron_mine,lead_mine,manganese_mine,nickel_mine,phosphorusphosphates_mine,platinum_mine,ree_mine,silver_mine,tin_mine,tungsten_mine,Region
+0,BDI,Burundi,Kayanza,Muruta,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+1,BDI,Burundi,Kayanza,Kabarore,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+2,BDI,Burundi,Gitega,Buraza,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+3,BDI,Burundi,Karuzi,Mutumba,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+4,BDI,Burundi,Cankuzo,Cankuzo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+5,BDI,Burundi,Rutana,Musongati,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Eastern Africa
+6,BDI,Burundi,Bujumbura Rural,Nyabiraba,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+7,BDI,Burundi,Cibitoke,Buganda,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+8,BDI,Burundi,Kirundo,Ntega,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+9,BDI,Burundi,Muyinga,Muyinga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+10,BDI,Burundi,Ngozi,Tangara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+11,BDI,Burundi,Mwaro,Kayokwe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+12,BDI,Burundi,Ruyigi,Gisuru,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+13,BDI,Burundi,Cankuzo,Cendajuru,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+14,BDI,Burundi,Bubanza,Musigati,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+15,BDI,Burundi,Bujumbura Mairie,Kinindo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+16,BDI,Burundi,Kayanza,Matongo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+17,BDI,Burundi,Muramvya,Bukeye,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+18,BDI,Burundi,Bururi,Vyanda,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+19,BDI,Burundi,Bururi,Matana,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+20,BDI,Burundi,Gitega,Nyanrusange,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+21,BDI,Burundi,Bujumbura Mairie,Roherero,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+22,BDI,Burundi,Kirundo,Bugabira,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+23,BDI,Burundi,Kayanza,Muhanga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+24,BDI,Burundi,Bubanza,Gihanga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+25,BDI,Burundi,Cankuzo,Gisagara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+26,BDI,Burundi,Kayanza,Kayanza,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+27,BDI,Burundi,Muyinga,Mwakiro,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+28,BDI,Burundi,Ruyigi,Butaganzwa2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+29,BDI,Burundi,Bujumbura Rural,Lake Tanganyika,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+30,BDI,Burundi,Bururi,Rumonge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+31,BDI,Burundi,Bujumbura Rural,Isale,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+32,BDI,Burundi,Kayanza,Butaganzwa1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+33,BDI,Burundi,Bururi,Bururi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+34,BDI,Burundi,Gitega,Makebuko,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+35,BDI,Burundi,Bujumbura Rural,Bugarama,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+36,BDI,Burundi,Makamba,Vugizo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+37,BDI,Burundi,Bubanza,Bubanza,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+38,BDI,Burundi,Bujumbura Rural,Mutambu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+39,BDI,Burundi,Cibitoke,Murwi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+40,BDI,Burundi,Bururi,Lake Tanganyika,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+41,BDI,Burundi,Makamba,Mabanda,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+42,BDI,Burundi,Rutana,Giharo,2,0,0,0,0,1,1,0,0,0,0,0,2,0,0,0,0,0,0,Eastern Africa
+43,BDI,Burundi,Gitega,Ryansoro,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+44,BDI,Burundi,Ngozi,Marangara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+45,BDI,Burundi,Cibitoke,Bukinanyana,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+46,BDI,Burundi,Kirundo,Busoni,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+47,BDI,Burundi,Kayanza,Gatara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+48,BDI,Burundi,Ngozi,Nyamurenza,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+49,BDI,Burundi,Ruyigi,Bweru,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+50,BDI,Burundi,Bujumbura Rural,Mubimbi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+51,BDI,Burundi,Bujumbura Rural,Mukike,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+52,BDI,Burundi,Bujumbura Mairie,Ngagara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+53,BDI,Burundi,Bururi,Rutovu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+54,BDI,Burundi,Gitega,Mutaho,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+55,BDI,Burundi,Muyinga,Butihinda,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+56,BDI,Burundi,Makamba,Lake Tanganyika,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+57,BDI,Burundi,Rutana,Bukemba,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+58,BDI,Burundi,Makamba,Nyanza-Lac,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+59,BDI,Burundi,Bujumbura Rural,Muhuta,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+60,BDI,Burundi,Ruyigi,Nyabitsinda,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+61,BDI,Burundi,Muramvya,Rutegama,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+62,BDI,Burundi,Mwaro,Rusaka,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+63,BDI,Burundi,Muyinga,Gasorwe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+64,BDI,Burundi,Cankuzo,Kigamba,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+65,BDI,Burundi,Bujumbura Mairie,Buyenze,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+66,BDI,Burundi,Kirundo,Kirundo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+67,BDI,Burundi,Mwaro,Bisoro,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+68,BDI,Burundi,Bujumbura Mairie,Musaga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+69,BDI,Burundi,Bujumbura Mairie,Kamenge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+70,BDI,Burundi,Bujumbura Rural,Mutimbuzi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+71,BDI,Burundi,Bujumbura Rural,Kanyosha1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Eastern Africa
+72,BDI,Burundi,Kirundo,Bwambarangwe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+73,BDI,Burundi,Muramvya,Muramvya,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+74,BDI,Burundi,Gitega,Gishubi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+75,BDI,Burundi,Bujumbura Mairie,Bwiza,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+76,BDI,Burundi,Ngozi,Gashikanwa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+77,BDI,Burundi,Kayanza,Gahombo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+78,BDI,Burundi,Mwaro,Ndava,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+79,BDI,Burundi,Bujumbura Mairie,Gihosha,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+80,BDI,Burundi,Bujumbura Mairie,Kinama,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+81,BDI,Burundi,Karuzi,Shombo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+82,BDI,Burundi,Bujumbura Mairie,Buterere,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+83,BDI,Burundi,Ruyigi,Kinyinya,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+84,BDI,Burundi,Cankuzo,Mishiha,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+85,BDI,Burundi,Rutana,Mpinga-Kayove,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+86,BDI,Burundi,Muyinga,Buhinyuza,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+87,BDI,Burundi,Bururi,Songa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+88,BDI,Burundi,Bujumbura Mairie,Kanyosha2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+89,BDI,Burundi,Makamba,Kibago,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+90,BDI,Burundi,Kayanza,Rango,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+91,BDI,Burundi,Gitega,Giheta,2,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,Eastern Africa
+92,BDI,Burundi,Muyinga,Gashoho,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+93,BDI,Burundi,Bubanza,Mpanda,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+94,BDI,Burundi,Bururi,Mugamba,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+95,BDI,Burundi,Gitega,Itaba,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+96,BDI,Burundi,Bururi,Buyengero,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+97,BDI,Burundi,Gitega,Gitega,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Eastern Africa
+98,BDI,Burundi,Mwaro,Nyabihanga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+99,BDI,Burundi,Bujumbura Rural,Mugongomanga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+100,BDI,Burundi,Ruyigi,Ruyigi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+101,BDI,Burundi,Ngozi,Ngozi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+102,BDI,Burundi,Makamba,Makamba,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+103,BDI,Burundi,Ngozi,Ruhororo,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,Eastern Africa
+104,BDI,Burundi,Kirundo,Vumbi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+105,BDI,Burundi,Gitega,Bugendana,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+106,BDI,Burundi,Cibitoke,Mabayi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+107,BDI,Burundi,Muyinga,Giteranyi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+108,BDI,Burundi,Ngozi,Kiremba,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+109,BDI,Burundi,Cibitoke,Rugombo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+110,BDI,Burundi,Kirundo,Gitobe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+111,BDI,Burundi,Bujumbura Mairie,Lake Tanganyika,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+112,BDI,Burundi,Bujumbura Mairie,Nyakabiga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+113,BDI,Burundi,Gitega,Bukirasazi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+114,BDI,Burundi,Ngozi,Mwumba,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+115,BDI,Burundi,Bujumbura Rural,Kabezi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+116,BDI,Burundi,Karuzi,Bugenyuzi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+117,BDI,Burundi,Muramvya,Mbuye,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+118,BDI,Burundi,Karuzi,Nyabikere,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+119,BDI,Burundi,Bururi,Burambi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+120,BDI,Burundi,Makamba,Kayogoro,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+121,BDI,Burundi,Bujumbura Mairie,Cibitoke,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+122,BDI,Burundi,Karuzi,Gitaramuka,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+123,BDI,Burundi,Muramvya,Kiganda,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+124,BDI,Burundi,Rutana,Gitanga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+125,BDI,Burundi,Cibitoke,Mugina,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+126,BDI,Burundi,Karuzi,Buhiga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+127,BDI,Burundi,Ruyigi,Butezi,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Eastern Africa
+128,BDI,Burundi,Bubanza,Rugazi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+129,BDI,Burundi,Rutana,Rutana,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+130,BDI,Burundi,Ngozi,Busiga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+131,BDI,Burundi,Karuzi,Gihogazi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+132,BDI,Burundi,Mwaro,Gisozi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+133,DJI,Djibouti,Tadjourah,Dorra,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+134,DJI,Djibouti,Djibouti,Djibouti,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+135,DJI,Djibouti,Obock,Obock,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+136,DJI,Djibouti,Tadjourah,Randa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+137,DJI,Djibouti,Dikhil,Yoboki,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+138,DJI,Djibouti,Dikhil,As Eyla,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+139,DJI,Djibouti,Ali Sabieh,Ali Sabieh,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+140,DJI,Djibouti,Dikhil,Dikhil,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+141,DJI,Djibouti,Tadjourah,Tadjourah,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+142,DJI,Djibouti,Obock,Alaili Dadda,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+143,DJI,Djibouti,Tadjourah,Balha,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+144,KEN,Kenya,Coast,Tana River,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+145,KEN,Kenya,Central,Kirinyaga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+146,KEN,Kenya,Eastern,Kitui,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+147,KEN,Kenya,Rift Valley,Laikipia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+148,KEN,Kenya,Rift Valley,Kericho,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+149,KEN,Kenya,North-Eastern,Garissa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+150,KEN,Kenya,Coast,Taita Taveta,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+151,KEN,Kenya,Central,Nyeri,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+152,KEN,Kenya,Western,Busia,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+153,KEN,Kenya,Nyanza,Kisii,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+154,KEN,Kenya,Coast,Mombasa,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,Eastern Africa
+155,KEN,Kenya,Coast,Kwale,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+156,KEN,Kenya,Eastern,Meru,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Eastern Africa
+157,KEN,Kenya,Eastern,Embu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+158,KEN,Kenya,Nyanza,Kisumu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+159,KEN,Kenya,Rift Valley,Bomet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+160,KEN,Kenya,Rift Valley,Uasin Gishu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+161,KEN,Kenya,Rift Valley,Trans-Nzoia,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+162,KEN,Kenya,Central,Kiambu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+163,KEN,Kenya,Central,Nyandarua,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Eastern Africa
+164,KEN,Kenya,Coast,Lamu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+165,KEN,Kenya,Eastern,Nithi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+166,KEN,Kenya,Rift Valley,Nakuru,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+167,KEN,Kenya,Central,Machakos,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+168,KEN,Kenya,Rift Valley,Nandi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+169,KEN,Kenya,Nairobi,Nairobi,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+170,KEN,Kenya,Rift Valley,Elgeyo-Marakwet,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+171,KEN,Kenya,Nyanza,Nyamira,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+172,KEN,Kenya,Eastern,Marsabit,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+173,KEN,Kenya,Rift Valley,Narok,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+174,KEN,Kenya,Coast,Kilifi,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,Eastern Africa
+175,KEN,Kenya,Nyanza,Homa Bay,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,Eastern Africa
+176,KEN,Kenya,North-Eastern,Wajir,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+177,KEN,Kenya,Central,Murang'a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+178,KEN,Kenya,Eastern,Machakos,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+179,KEN,Kenya,Nyanza,Siaya,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+180,KEN,Kenya,North-Eastern,Mandera,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+181,KEN,Kenya,Eastern,Isiolo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+182,KEN,Kenya,Eastern,Makueni,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+183,KEN,Kenya,Rift Valley,West Pokot,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+184,KEN,Kenya,Nyanza,Migori,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+185,KEN,Kenya,Rift Valley,Turkana,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+186,KEN,Kenya,Rift Valley,Baringo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+187,KEN,Kenya,Eastern,Wajir,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+188,KEN,Kenya,Western,Bungoma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+189,KEN,Kenya,Rift Valley,Samburu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+190,KEN,Kenya,Western,Vihiga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+191,KEN,Kenya,Western,Kakamega,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+192,MWI,Malawi,Ntcheu,TA Chakhumbira,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+193,MWI,Malawi,Lilongwe,TA Kalolo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+194,MWI,Malawi,Blantyre,TA Lundu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+195,MWI,Malawi,Karonga,TA Kyungu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+196,MWI,Malawi,Kasungu,TA Kapelula,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+197,MWI,Malawi,Nkhata Bay,TA Timbiri,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+198,MWI,Malawi,Dowa,SC Mkukula,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+199,MWI,Malawi,Salima,TA Ndindi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+200,MWI,Malawi,Mzimba,SC Kampingo Sibande,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+201,MWI,Malawi,Karonga,Lake Malawi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+202,MWI,Malawi,Mzimba,TA Mabulabo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+203,MWI,Malawi,Chikwawa,TA Chapananga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+204,MWI,Malawi,Nsanje,SC Makoka,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+205,MWI,Malawi,Salima,TA Khombedza,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+206,MWI,Malawi,Blantyre,TA Somba,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+207,MWI,Malawi,Mzimba,Mzuzu City,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+208,MWI,Malawi,Rumphi,Vwaza Marsh Game Reserve - Rumphi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+209,MWI,Malawi,Lilongwe,TA Mazengera,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+210,MWI,Malawi,Rumphi,SC Mwahenga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+211,MWI,Malawi,Rumphi,Lake Malawi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+212,MWI,Malawi,Rumphi,SC Mwalweni,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+213,MWI,Malawi,Mangochi,SC Mbwana Nyambi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+214,MWI,Malawi,Chitipa,Chitipa Boma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+215,MWI,Malawi,Rumphi,SC Chapinduka,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+216,MWI,Malawi,Balaka,TA Kalembo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+217,MWI,Malawi,Chiradzulu,Chiradzulu Boma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+218,MWI,Malawi,Ntchisi,TA Chikho,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+219,MWI,Malawi,Rumphi,Rumphi Boma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+220,MWI,Malawi,Nkhata Bay,TA Musisya,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+221,MWI,Malawi,Karonga,TA Wasambo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+222,MWI,Malawi,Nkhotakota,TA Mwadzama,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+223,MWI,Malawi,Nkhata Bay,Lake Malawi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+224,MWI,Malawi,Salima,TA Karonga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+225,MWI,Malawi,Lilongwe,TA Chitukula,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+226,MWI,Malawi,Karonga,TA Kilupula,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+227,MWI,Malawi,Nkhata Bay,SC Fukamalaza,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+228,MWI,Malawi,Balaka,TA Nsamala,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Southern Africa
+229,MWI,Malawi,Mchinji,SC Dambe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+230,MWI,Malawi,Nkhotakota,SC Kafuzila,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+231,MWI,Malawi,Lilongwe,TA Chadza,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+232,MWI,Malawi,Nsanje,TA Ngabu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+233,MWI,Malawi,Phalombe,TA Nazombe,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Southern Africa
+234,MWI,Malawi,Chikwawa,TA Lundu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+235,MWI,Malawi,Blantyre,TA Kuntaja,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+236,MWI,Malawi,Salima,TA Pemba,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+237,MWI,Malawi,Chikwawa,Ngabu Urban,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+238,MWI,Malawi,Chikwawa,TA Kasisi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+239,MWI,Malawi,Kasungu,Kasungu National Park,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+240,MWI,Malawi,Dowa,Mponela Urban,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+241,MWI,Malawi,Mulanje,TA Mabuka,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+242,MWI,Malawi,Nkhata Bay,SC Nyaluwanga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+243,MWI,Malawi,Dedza,SC Chilikumwendo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+244,MWI,Malawi,Kasungu,TA Kaomba,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+245,MWI,Malawi,Mzimba,SC Khosolo Gwaza Jere,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+246,MWI,Malawi,Nkhata Bay,TA Kabunduli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+247,MWI,Malawi,Nkhotakota,SC Mphonde,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+248,MWI,Malawi,Salima,Salima Town,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+249,MWI,Malawi,Chiradzulu,TA Mpama,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+250,MWI,Malawi,Nsanje,Nsanje Boma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+251,MWI,Malawi,Kasungu,TA Wimbe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+252,MWI,Malawi,Nsanje,TA Mlolo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+253,MWI,Malawi,Karonga,Karonga Town,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+254,MWI,Malawi,Phalombe,TA Mkhumba,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+255,MWI,Malawi,Nsanje,TA Chimombo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+256,MWI,Malawi,Mwanza,Mwanza Boma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+257,MWI,Malawi,Phalombe,Lake Chilwa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+258,MWI,Malawi,Chiradzulu,TA Nchema,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+259,MWI,Malawi,Chitipa,TA Kameme,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+260,MWI,Malawi,Dowa,TA Msakambewa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+261,MWI,Malawi,Lilongwe,Lilongwe City,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+262,MWI,Malawi,Nkhotakota,Nkhotakota Game Reserve,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+263,MWI,Malawi,Mchinji,TA Mlonyeni,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+264,MWI,Malawi,Dedza,TA Tambala,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+265,MWI,Malawi,Mwanza,TA Dambe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+266,MWI,Malawi,Mangochi,SC Namabvi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+267,MWI,Malawi,Rumphi,TA Chikulamayembe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+268,MWI,Malawi,Mulanje,TA Nthiramanja,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+269,MWI,Malawi,Machinga,SC Chiwalo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+270,MWI,Malawi,Dedza,TA Kaphuka,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+271,MWI,Malawi,Thyolo,TA Chimaliro,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+272,MWI,Malawi,Thyolo,Thyolo Boma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+273,MWI,Malawi,Nsanje,TA Tengani,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+274,MWI,Malawi,Ntcheu,TA Kwataine,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+275,MWI,Malawi,Rumphi,TA Katumbi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+276,MWI,Malawi,Dowa,TA Dzoole,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+277,MWI,Malawi,Rumphi,SC Mwankhunikira,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+278,MWI,Malawi,Mzimba,TA Chindi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+279,MWI,Malawi,Mzimba,TA Mzikubola,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+280,MWI,Malawi,Chiradzulu,TA Nkalo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+281,MWI,Malawi,Chiradzulu,TA Kadewere,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+282,MWI,Malawi,Dedza,Dedza Boma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+283,MWI,Malawi,Kasungu,SC Chilowamatambe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+284,MWI,Malawi,Lilongwe,TA Kalumbu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+285,MWI,Malawi,Mzimba,TA Mtwalo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+286,MWI,Malawi,Salima,SC Mwanza,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+287,MWI,Malawi,Lilongwe,TA Malili,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+288,MWI,Malawi,Thyolo,TA Thomas,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+289,MWI,Malawi,Mchinji,SC Mduwa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+290,MWI,Malawi,Mzimba,Mzimba Boma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+291,MWI,Malawi,Nkhotakota,Nkhotakota Boma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+292,MWI,Malawi,Kasungu,SC Kawamba,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+293,MWI,Malawi,Machinga,SC Ngokwe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+294,MWI,Malawi,Mangochi,SC Chowe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+295,MWI,Malawi,Mwanza,TA Symon,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+296,MWI,Malawi,Thyolo,TA Kapichi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+297,MWI,Malawi,Chikwawa,TA Makhwira,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+298,MWI,Malawi,Mulanje,Mulanje Boma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+299,MWI,Malawi,Chitipa,TA Mwabulambya,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+300,MWI,Malawi,Nsanje,SC Mbenje,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+301,MWI,Malawi,Chikwawa,TA Ngabu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+302,MWI,Malawi,Ntchisi,TA Kasukula,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+303,MWI,Malawi,Kasungu,TA Chulu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+304,MWI,Malawi,Mwanza,TA Mlauli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+305,MWI,Malawi,Mangochi,TA Makanjila,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+306,MWI,Malawi,Karonga,SC Mwakaboko,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+307,MWI,Malawi,Lilongwe,TA Kalumba,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+308,MWI,Malawi,Ntchisi,TA Kasakula,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+309,MWI,Malawi,Machinga,SC Sitola,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+310,MWI,Malawi,Kasungu,SC Lukwa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+311,MWI,Malawi,Chitipa,TA Mwenemisuku,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+312,MWI,Malawi,Lilongwe,SC Chitekwele,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+313,MWI,Malawi,Mzimba,SC Jaravikuba Munthali,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+314,MWI,Malawi,Kasungu,SC Simlemba,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+315,MWI,Malawi,Nkhotakota,TA Kanyenda,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+316,MWI,Malawi,Ntcheu,TA Masasa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+317,MWI,Malawi,Lilongwe,TA Khongoni,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+318,MWI,Malawi,Chitipa,TA Mwenewenya,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+319,MWI,Malawi,Blantyre,TA Chigaru,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+320,MWI,Malawi,Machinga,Lake Chilwa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+321,MWI,Malawi,Mangochi,TA Mponda,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+322,MWI,Malawi,Blantyre,TA Kapeni,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+323,MWI,Malawi,Balaka,Balaka Town,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+324,MWI,Malawi,Nsanje,TA Malemia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+325,MWI,Malawi,Ntcheu,SC Makwangwala,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+326,MWI,Malawi,Lilongwe,SC Mtema,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+327,MWI,Malawi,Zomba,SC Mkumbira,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+328,MWI,Malawi,Machinga,TA Kawinga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+329,MWI,Malawi,Dowa,SC Chakhaza,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+330,MWI,Malawi,Chiradzulu,TA Likoswe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+331,MWI,Malawi,Nkhata Bay,SC Malanda,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+332,MWI,Malawi,Zomba,TA Chikowi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+333,MWI,Malawi,Ntcheu,SC Goodson Ganya,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+334,MWI,Malawi,Mangochi,TA Jalasi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+335,MWI,Malawi,Salima,SC Kambwiri,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+336,MWI,Malawi,Machinga,TA Liwonde,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+337,MWI,Malawi,Chitipa,TA Nthalire,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+338,MWI,Malawi,Kasungu,TA Kaluluma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+339,MWI,Malawi,Blantyre,Blantyre City,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+340,MWI,Malawi,Mangochi,Monkey Bay Urban,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+341,MWI,Malawi,Thyolo,SC Mphuka,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+342,MWI,Malawi,Rumphi,Nyika National Park - Rumphi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+343,MWI,Malawi,Dedza,TA Pemba,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+344,MWI,Malawi,Kasungu,TA Mwase,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+345,MWI,Malawi,Lilongwe,SC Tsabango,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+346,MWI,Malawi,Mangochi,Lake Malawi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+347,MWI,Malawi,Lilongwe,TA Kabudula,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+348,MWI,Malawi,Blantyre,TA Makata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+349,MWI,Malawi,Chikwawa,TA Katunga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+350,MWI,Malawi,Mangochi,TA Katuli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+351,MWI,Malawi,Ntchisi,SC Nthondo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+352,MWI,Malawi,Nkhata Bay,SC Zilakoma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+353,MWI,Malawi,Zomba,TA Mlumbe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+354,MWI,Malawi,Mangochi,TA Nankumba,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+355,MWI,Malawi,Nkhotakota,TA Malenga Chanzi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+356,MWI,Malawi,Mchinji,TA Zulu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+357,MWI,Malawi,Ntcheu,TA Mpando,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+358,MWI,Malawi,Nsanje,TA Nyachikadza,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+359,MWI,Malawi,Dowa,SC Kayembe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+360,MWI,Malawi,Dowa,Dowa Boma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+361,MWI,Malawi,Chiradzulu,TA Chitera,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+362,MWI,Malawi,Mulanje,SC Juma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+363,MWI,Malawi,Ntchisi,Ntchisi Boma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+364,MWI,Malawi,Ntcheu,SC Champiti,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+365,MWI,Malawi,Zomba,TA Mwambo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+366,MWI,Malawi,Mwanza,TA Nthache,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+367,MWI,Malawi,Kasungu,SC Njombwa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+368,MWI,Malawi,Mulanje,Mulanje Mountain Forest Reserve,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+369,MWI,Malawi,Machinga,TA Nyambi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+370,MWI,Malawi,Dedza,TA Kasumbu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+371,MWI,Malawi,Mwanza,TA Ngozi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+372,MWI,Malawi,Mzimba,TA M'Mbelwa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+373,MWI,Malawi,Mulanje,TA Nkanda,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+374,MWI,Malawi,Zomba,Zomba City,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+375,MWI,Malawi,Machinga,Lake Chiuta,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+376,MWI,Malawi,Ntcheu,TA Phambala,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+377,MWI,Malawi,Ntcheu,Ntcheu Boma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+378,MWI,Malawi,Chikwawa,Chikwawa Boma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+379,MWI,Malawi,Kasungu,Kasungu Boma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+380,MWI,Malawi,Machinga,Liwonde Town,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+381,MWI,Malawi,Chikwawa,Lengwe National Park,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+382,MWI,Malawi,Mchinji,SC Mavwere,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+383,MWI,Malawi,Thyolo,SC Kwethemule,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+384,MWI,Malawi,Mchinji,Mchinji Boma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+385,MWI,Malawi,Salima,TA Maganga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+386,MWI,Malawi,Dedza,TA Kachindamoto,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+387,MWI,Malawi,Kasungu,TA Santhe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+388,MWI,Malawi,Lilongwe,TA Chimutu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+389,MWI,Malawi,Thyolo,TA Nchilamwela,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+390,MWI,Malawi,Thyolo,TA Nsabwe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+391,MWI,Malawi,Dedza,Lake Malawi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+392,MWI,Malawi,Mangochi,Mangochi Town,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+393,MWI,Malawi,Mchinji,TA Mkanda,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+394,MWI,Malawi,Lilongwe,SC Njewa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+395,MWI,Malawi,Thyolo,TA Changata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+396,MWI,Malawi,Ntchisi,TA Kalumo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+397,MWI,Malawi,Thyolo,SC Thukuta,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+398,MWI,Malawi,Mzimba,TA Mpherembe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+399,MWI,Malawi,Salima,SC Kambalame,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+400,MWI,Malawi,Kasungu,SC Chisikwa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+401,MWI,Malawi,Nsanje,TA Ndamera,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+402,MWI,Malawi,Mulanje,TA Chikumbu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+403,MWI,Malawi,Machinga,SC Chamba,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+404,MWI,Malawi,Machinga,SC Mlomba,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+405,MWI,Malawi,Thyolo,Luchenza Town,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+406,MWI,Malawi,Dowa,TA Chiwere,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+407,MWI,Malawi,Salima,Lake Malawi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+408,MWI,Malawi,Lilongwe,TA Chiseka,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+409,MWI,Malawi,Karonga,Nyipa N. P. - Karonga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+410,MWI,Malawi,Kasungu,SC M'nyanja,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+411,MWI,Malawi,Mangochi,TA Chimwala,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+412,MWI,Malawi,Blantyre,TA Machinjili,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+413,MWI,Malawi,Machinga,SC Chikweo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+414,MWI,Malawi,Nkhata Bay,TA Fukamapiri,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+415,MWI,Malawi,Dedza,SC Chauma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+416,MWI,Malawi,Machinga,SC Mposa,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+417,MWI,Malawi,Zomba,TA Malemia,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+418,MWI,Malawi,Ntcheu,TA Njolomole,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+419,MWI,Malawi,Nkhotakota,SC Mwansambo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+420,MWI,Malawi,Mzimba,Vwaza Marsh Game Reserve - Mzimba,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+421,MWI,Malawi,Machinga,Liwonda National Park,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+422,MWI,Malawi,Ntchisi,SC Chilooko,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+423,MWI,Malawi,Mwanza,TA Kanduku,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+424,MWI,Malawi,Thyolo,SC Mbawela,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+425,MWI,Malawi,Karonga,SC Mwirang'ombe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+426,MWI,Malawi,Mulanje,SC Laston Njema,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+427,MWI,Malawi,Nkhotakota,Lake Malawi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+428,MWI,Malawi,Dowa,SC Mponela,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+429,MWI,Malawi,Nkhata Bay,TA Malenga Mzoma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+430,MWI,Malawi,Chitipa,Nyika N.P. - Chitipa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+431,MWI,Malawi,Rumphi,SC Kachulu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+432,MWI,Malawi,Chikwawa,Majete Game Reserve - Chikwawa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+433,MWI,Malawi,Rumphi,TA Mwamlowe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+434,MWI,Malawi,Blantyre,TA Kunthembwe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+435,MWI,Malawi,Mzimba,TA Mzukuzuku,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+436,MWI,Malawi,Salima,TA Kuluunda,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+437,MWI,Malawi,Thyolo,TA Bvumbwe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+438,MWI,Malawi,Dedza,SC Kamenya Gwaza,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+439,MWI,Malawi,Zomba,Lake Chilwa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+440,MWI,Malawi,Chikwawa,TA Maseya,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+441,MWI,Malawi,Mangochi,Lake Malombe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+442,MWI,Malawi,Nsanje,Mwabvi Game Reserve,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+443,MWI,Malawi,Zomba,SC Mbiza,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+444,MWI,Malawi,Zomba,TA Kuntumanji,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+445,RWA,Rwanda,Kibuye,Gitsi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+446,RWA,Rwanda,Ruhengeri,Ndusu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+447,RWA,Rwanda,Byumba,Cyumba,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+448,RWA,Rwanda,Ruhengeri,Nyamutera,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+449,RWA,Rwanda,Gisenyi,Rubavu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+450,RWA,Rwanda,Cyangugu,Gisuma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+451,RWA,Rwanda,Butare,Mugusa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+452,RWA,Rwanda,Ruhengeri,Nkumba,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+453,RWA,Rwanda,Gitarama,Nyamabuye,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+454,RWA,Rwanda,Kigali,Mbogo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+455,RWA,Rwanda,Cyangugu,Bugarama,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+456,RWA,Rwanda,Ruhengeri,Nkuli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+457,RWA,Rwanda,Cyangugu,Nyakabuye,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+458,RWA,Rwanda,Byumba,Bwisige,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+459,RWA,Rwanda,Ruhengeri,Kidaho,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+460,RWA,Rwanda,Butare,Muyaga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+461,RWA,Rwanda,Kibuye,Gisovu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+462,RWA,Rwanda,Butare,Muganzi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+463,RWA,Rwanda,Byumba,Kinyami,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+464,RWA,Rwanda,Gikongoro,Mudasomwa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+465,RWA,Rwanda,Gisenyi,Ramba,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+466,RWA,Rwanda,Kibungu,Mugesera,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+467,RWA,Rwanda,Gisenyi,Kayove,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+468,RWA,Rwanda,Butare,Ngoma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+469,RWA,Rwanda,Gitarama,Tambwe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+470,RWA,Rwanda,Gitarama,Muambira,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+471,RWA,Rwanda,Kibuye,Bwakira,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+472,RWA,Rwanda,Butare,Gishamvu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+473,RWA,Rwanda,Kibungu,Birenga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+474,RWA,Rwanda,Gikongoro,Karambo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+475,RWA,Rwanda,Gikongoro,Mubuga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+476,RWA,Rwanda,Gikongoro,Kinyamakara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+477,RWA,Rwanda,Butare,Nyakizu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+478,RWA,Rwanda,Kibuye,Mabanza,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+479,RWA,Rwanda,Kigali,Gikomero,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+480,RWA,Rwanda,Byumba,Buyoga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+481,RWA,Rwanda,Byumba,Cyungo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+482,RWA,Rwanda,Gitarama,Mukingi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+483,RWA,Rwanda,Byumba,Gituza,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+484,RWA,Rwanda,Gitarama,Masango,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+485,RWA,Rwanda,Kigali,Tare,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+486,RWA,Rwanda,Kigali,Gashora,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+487,RWA,Rwanda,Cyangugu,Kamembe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+488,RWA,Rwanda,Gikongoro,Musebeya,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+489,RWA,Rwanda,Gisenyi,Karago,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+490,RWA,Rwanda,Kibungu,Kabarondo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+491,RWA,Rwanda,Butare,Runyinya,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+492,RWA,Rwanda,Butare,Shyanda,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+493,RWA,Rwanda,Kibungu,Rutonde,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+494,RWA,Rwanda,Kibungu,Sake,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+495,RWA,Rwanda,Gitarama,Kigoma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+496,RWA,Rwanda,Gitarama,Ntongwe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+497,RWA,Rwanda,Ruhengeri,Kinigi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+498,RWA,Rwanda,Kibuye,Mwendo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+499,RWA,Rwanda,Gitarama,Mugina,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+500,RWA,Rwanda,Gitarama,Nyabikenke,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+501,RWA,Rwanda,Butare,Nyabisindu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+502,RWA,Rwanda,Byumba,Muvumba,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+503,RWA,Rwanda,Gikongoro,Nyamagabe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+504,RWA,Rwanda,Ruhengeri,Butaro,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+505,RWA,Rwanda,Kibungu,Kigarama,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+506,RWA,Rwanda,Butare,Ruhashya,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+507,RWA,Rwanda,Byumba,Mukarange,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+508,RWA,Rwanda,Byumba,Kibali,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+509,RWA,Rwanda,Kibuye,Rutsiro,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+510,RWA,Rwanda,Butare,Huye,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+511,RWA,Rwanda,Kigali,Musasa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+512,RWA,Rwanda,Kibuye,Kivumu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+513,RWA,Rwanda,Gikongoro,Kivu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+514,RWA,Rwanda,Butare,Rusatira,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+515,RWA,Rwanda,Byumba,Ngarama,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+516,RWA,Rwanda,Butare,Kibayi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+517,RWA,Rwanda,Byumba,Giti,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+518,RWA,Rwanda,Butare,Ntyazo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+519,RWA,Rwanda,Butare,Muyira,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+520,RWA,Rwanda,Cyangugu,Karengera,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+521,RWA,Rwanda,Gitarama,Murama,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+522,RWA,Rwanda,Gikongoro,Musange,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+523,RWA,Rwanda,Kibuye,Rwamatamu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+524,RWA,Rwanda,Gisenyi,Nyamyumba,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+525,RWA,Rwanda,Gisenyi,Satinsyi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+526,RWA,Rwanda,Byumba,Rutare,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+527,RWA,Rwanda,Gikongoro,Rwanmiko,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+528,RWA,Rwanda,Gikongoro,Nshiri,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+529,RWA,Rwanda,Ruhengeri,Cyeru,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+530,RWA,Rwanda,Gikongoro,Muko,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+531,RWA,Rwanda,Kigali,Gikoro,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+532,RWA,Rwanda,Byumba,Tumba,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+533,RWA,Rwanda,Byumba,Muhura,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+534,RWA,Rwanda,Butare,Maraba,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+535,RWA,Rwanda,Gitarama,Rutobwe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+536,RWA,Rwanda,Kibungu,Rusumo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+537,RWA,Rwanda,Cyangugu,Gafunzo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+538,RWA,Rwanda,Kigali,Rubungo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Eastern Africa
+539,RWA,Rwanda,Kigali,Kanzenze,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+540,RWA,Rwanda,Ruhengeri,Kigombe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+541,RWA,Rwanda,Kigali,Butamwa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+542,RWA,Rwanda,Kibungu,Muhazi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+543,RWA,Rwanda,Gikongoro,Rukondo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+544,RWA,Rwanda,Ruhengeri,Mukingo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+545,RWA,Rwanda,Gitarama,Runda,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+546,RWA,Rwanda,Kibuye,Gishyita,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+547,RWA,Rwanda,Cyangugu,Gatare,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+548,RWA,Rwanda,Gikongoro,Karama,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+549,RWA,Rwanda,Gitarama,Kayenzi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+550,RWA,Rwanda,Butare,Nyaruhengeri,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+551,RWA,Rwanda,Ruhengeri,Nyamugali,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+552,RWA,Rwanda,Gisenyi,Giciye,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+553,RWA,Rwanda,Gitarama,Mushubati,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+554,RWA,Rwanda,Kigali,Rutongo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+555,RWA,Rwanda,Kigali,Shyorongi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+556,RWA,Rwanda,Byumba,Murambi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+557,RWA,Rwanda,Kigali,Rushashi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+558,RWA,Rwanda,Gisenyi,Rwerere,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+559,RWA,Rwanda,Cyangugu,Gishoma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+560,RWA,Rwanda,Kigali,Nyarugenge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+561,RWA,Rwanda,Gitarama,Taba,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+562,RWA,Rwanda,Butare,Ndora,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+563,RWA,Rwanda,Butare,Mbazi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+564,RWA,Rwanda,Kibungu,Kayonza,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+565,RWA,Rwanda,Ruhengeri,Nyarutovu,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Eastern Africa
+566,RWA,Rwanda,Ruhengeri,Ruhondo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+567,RWA,Rwanda,Kigali,Mugambazi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+568,RWA,Rwanda,Gisenyi,Mutura,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+569,RWA,Rwanda,Ruhengeri,Cyabingo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+570,RWA,Rwanda,Gitarama,Nyakabanda,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+571,RWA,Rwanda,Gisenyi,Kanama,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+572,RWA,Rwanda,Byumba,Kivuye,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+573,RWA,Rwanda,Ruhengeri,Gatonde,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+574,RWA,Rwanda,Byumba,Kiyombe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+575,RWA,Rwanda,Kigali,Ngenda,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+576,RWA,Rwanda,Kibungu,Rukara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+577,RWA,Rwanda,Ruhengeri,Nyakinama,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+578,RWA,Rwanda,Gisenyi,Kibirira,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+579,RWA,Rwanda,Kigali,Kanombe,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Eastern Africa
+580,RWA,Rwanda,Cyangugu,Kirambo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+581,RWA,Rwanda,Gitarama,Bulinga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+582,RWA,Rwanda,Butare,Kigembe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+583,RWA,Rwanda,Gisenyi,Gaseke,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+584,RWA,Rwanda,Cyangugu,Cyimbogo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+585,RWA,Rwanda,Kibungu,Rukira,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+586,RWA,Rwanda,Kigali,Bicumbi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+587,SDN,Sudan,Kordofan,South Kordufan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Northern Africa
+588,SDN,Sudan,Kordofan,North Kurdufan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Northern Africa
+589,SDN,Sudan,Bahr el Ghazal,West Bahr-al-Ghazal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Northern Africa
+590,SDN,Sudan,Blue Nile,Blue Nile,8,0,1,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,Northern Africa
+591,SDN,Sudan,Darfur,North Darfur,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Northern Africa
+592,SDN,Sudan,Bahr el Ghazal,Warap,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Northern Africa
+593,SDN,Sudan,Equatoria,Central Equatoria,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Northern Africa
+594,SDN,Sudan,Northern,Northern,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Northern Africa
+595,SDN,Sudan,Khartoum,Khartoum,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,Northern Africa
+596,SDN,Sudan,Blue Nile,Gezira,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Northern Africa
+597,SDN,Sudan,Upper Nile,Jungoli,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Northern Africa
+598,SDN,Sudan,Kassala,Kassala,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Northern Africa
+599,SDN,Sudan,Upper Nile,Upper Nile,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Northern Africa
+600,SDN,Sudan,Blue Nile,Sennar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Northern Africa
+601,SDN,Sudan,Upper Nile,Unity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Northern Africa
+602,SDN,Sudan,Blue Nile,White Nile,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Northern Africa
+603,SDN,Sudan,Darfur,South Darfur,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,Northern Africa
+604,SDN,Sudan,Kordofan,West Kurdufan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Northern Africa
+605,SDN,Sudan,Equatoria,Eastern Equatoria,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Northern Africa
+606,SDN,Sudan,Equatoria,West Equatoria,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Northern Africa
+607,SDN,Sudan,Bahr el Ghazal,Lakes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Northern Africa
+608,SDN,Sudan,Northern,River Nile,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Northern Africa
+609,SDN,Sudan,Darfur,West Darfur,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Northern Africa
+610,SDN,Sudan,Kassala,Gedarif,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Northern Africa
+611,SDN,Sudan,Kassala,Red Sea,5,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,1,Northern Africa
+612,SDN,Sudan,Bahr el Ghazal,North Bahr-al-Ghazal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Northern Africa
+613,UGA,Uganda,Bushenyi,Bunyaruguru,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+614,UGA,Uganda,Kisoro,Kisoro,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+615,UGA,Uganda,Kotido,Labwor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+616,UGA,Uganda,Mpigi,Gomba,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+617,UGA,Uganda,Luwero,Nakaseke,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+618,UGA,Uganda,Masaka,Kalungu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+619,UGA,Uganda,Moroto,Bokora,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+620,UGA,Uganda,Busia,Samia-Bugwe,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Eastern Africa
+621,UGA,Uganda,Mbarara,Rwampara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+622,UGA,Uganda,Moroto,Moroto,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+623,UGA,Uganda,Mbarara,Bukanga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+624,UGA,Uganda,Masindi,Kibanda,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+625,UGA,Uganda,Hoima,Buhaguzi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+626,UGA,Uganda,Apac,Maruzi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+627,UGA,Uganda,Tororo,Bunyole,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+628,UGA,Uganda,Rukungiri,Rubabo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+629,UGA,Uganda,Kitgum,Chua,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+630,UGA,Uganda,Pallisa,Butebo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+631,UGA,Uganda,Mbale,Mbale,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+632,UGA,Uganda,Moyo,West Moyo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+633,UGA,Uganda,Iganga,Busiki,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+634,UGA,Uganda,Kabarole,Bunyangabu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+635,UGA,Uganda,Arua,Vurra,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+636,UGA,Uganda,Lira,Moroto,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+637,UGA,Uganda,Wakiso,Busiiro,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+638,UGA,Uganda,Sembabule,Mawogola,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+639,UGA,Uganda,Moroto,Matheniko,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+640,UGA,Uganda,Kampala,Kampala,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+641,UGA,Uganda,Katakwi,Usuk,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+642,UGA,Uganda,Lira,Kyoga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+643,UGA,Uganda,Ntungamo,Rushenyi,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+644,UGA,Uganda,Rakai,Kakuuto,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+645,UGA,Uganda,Mbale,Bubulo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+646,UGA,Uganda,Wakiso,Entebbe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+647,UGA,Uganda,Katakwi,Amuria,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+648,UGA,Uganda,Kapchorwa,Tingey,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+649,UGA,Uganda,Lira,Lira,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+650,UGA,Uganda,Sironko,Mt. Elgon Np,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+651,UGA,Uganda,Kapchorwa,Kongasis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+652,UGA,Uganda,Kamuli,Buzaaya,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+653,UGA,Uganda,Arua,Ayivu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+654,UGA,Uganda,Kabale,Ndorwa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+655,UGA,Uganda,Adjumani,East Moyo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+656,UGA,Uganda,Arua,Koboko,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+657,UGA,Uganda,Pallisa,Budaka,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+658,UGA,Uganda,Ntungamo,Ruhaama,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+659,UGA,Uganda,Bushenyi,Sheema,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+660,UGA,Uganda,Sironko,Bulambuli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+661,UGA,Uganda,Rakai,Kooki,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+662,UGA,Uganda,Apac,Kole,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+663,UGA,Uganda,Arua,Arua Municipality,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+664,UGA,Uganda,Iganga,Luuka,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+665,UGA,Uganda,Nebbi,Jonam,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+666,UGA,Uganda,Nakapiripirit,Pokot,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+667,UGA,Uganda,Mayuge,Bunya,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+668,UGA,Uganda,Sembabule,Lwemiyaga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+669,UGA,Uganda,Mbarara,Isingiro,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+670,UGA,Uganda,Kabarole,Fort Portal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+671,UGA,Uganda,Arua,Madi-Okollo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+672,UGA,Uganda,Gulu,Gulu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+673,UGA,Uganda,Bugiri,Bukooli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+674,UGA,Uganda,Kabale,Kabale,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+675,UGA,Uganda,Tororo,Tororo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+676,UGA,Uganda,Mukono,Mukono,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+677,UGA,Uganda,Gulu,Aswa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+678,UGA,Uganda,Katakwi,Kapelebyong,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+679,UGA,Uganda,Jinja,Jinja,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+680,UGA,Uganda,Pallisa,Pallisa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+681,UGA,Uganda,Sironko,Budadiri,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+682,UGA,Uganda,Kabale,Rukiga,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+683,UGA,Uganda,Masaka,Bukomansimbi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+684,UGA,Uganda,Kibale,Bugangaizi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+685,UGA,Uganda,Kasese,Busongora,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+686,UGA,Uganda,Mukono,Buvuma Islands,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+687,UGA,Uganda,Mbale,Manjiya,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+688,UGA,Uganda,Jinja,Butembe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+689,UGA,Uganda,Mubende,Mityana,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Eastern Africa
+690,UGA,Uganda,Kamwenge,Kibale,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+691,UGA,Uganda,Apac,Oyam,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+692,UGA,Uganda,Pader,Agago,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+693,UGA,Uganda,Rukungiri,Bufumbira,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+694,UGA,Uganda,Kyenjojo,Kyaka,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+695,UGA,Uganda,Iganga,Kigulu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+696,UGA,Uganda,Rakai,Kyotera,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+697,UGA,Uganda,Bundibugyo,Bwamba,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+698,UGA,Uganda,Apac,Kwania,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+699,UGA,Uganda,Wakiso,Jinja,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+700,UGA,Uganda,Kabale,Rubanda,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Eastern Africa
+701,UGA,Uganda,Masaka,Bukoto,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+702,UGA,Uganda,Gulu,Nwoya,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+703,UGA,Uganda,Kumi,Bukedea,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+704,UGA,Uganda,Kanungu,Kinkiizi,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Eastern Africa
+705,UGA,Uganda,Kabarole,Burahya,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+706,UGA,Uganda,Mukono,Buikwe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+707,UGA,Uganda,Nakapiripirit,Pian,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+708,UGA,Uganda,Tororo,Kisoko (West Budama),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+709,UGA,Uganda,Nakapiripirit,Chekwii,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+710,UGA,Uganda,Bushenyi,Ruhinda,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+711,UGA,Uganda,Masindi,Buruli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+712,UGA,Uganda,Mbarara,Kazo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+713,UGA,Uganda,Gulu,Omoro,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+714,UGA,Uganda,Yumbe,Aringa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+715,UGA,Uganda,Hoima,Bugahya,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+716,UGA,Uganda,Jinja,Kagoma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+717,UGA,Uganda,Kapchorwa,Kween,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Eastern Africa
+718,UGA,Uganda,Kamuli,Bulamogi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+719,UGA,Uganda,Lira,Dokolo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+720,UGA,Uganda,Gulu,Kilak,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+721,UGA,Uganda,Mukono,Nakifuma,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+722,UGA,Uganda,Nebbi,Okoro,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+723,UGA,Uganda,Pallisa,Kibuku,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+724,UGA,Uganda,Kaberamaido,Kaberamaido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+725,UGA,Uganda,Pader,Aruu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+726,UGA,Uganda,Masaka,Masaka,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+727,UGA,Uganda,Bushenyi,Igara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+728,UGA,Uganda,Mbale,Bungokho,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+729,UGA,Uganda,Kayunga,Ntenjeru,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+730,UGA,Uganda,Mubende,Buwekula,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+731,UGA,Uganda,Soroti,Kasilo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+732,UGA,Uganda,Kiboga,Kiboga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+733,UGA,Uganda,Kotido,Dodoth,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+734,UGA,Uganda,Mbarara,Kashari,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+735,UGA,Uganda,Kotido,Jie,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+736,UGA,Uganda,Mbarara,Mbarara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+737,UGA,Uganda,Kamuli,Bugabula,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+738,UGA,Uganda,Soroti,Soroti,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+739,UGA,Uganda,Mpigi,Mawokota,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+740,UGA,Uganda,Bundibugyo,Ntoroko,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+741,UGA,Uganda,Kitgum,Lamwo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+742,UGA,Uganda,Kamuli,Budiope,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+743,UGA,Uganda,Nebbi,Padyere,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+744,UGA,Uganda,Mbarara,Ibanda,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+745,UGA,Uganda,Soroti,Serere,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+746,UGA,Uganda,Bushenyi,Buhweju,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+747,UGA,Uganda,Iganga,Bugweri,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+748,UGA,Uganda,Lake Albert,Lake Albert,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+749,UGA,Uganda,Kumi,Ngora,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+750,UGA,Uganda,Arua,Maracha,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+751,UGA,Uganda,Ntungamo,Kajara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+752,UGA,Uganda,Mbarara,Nyabushozi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+753,UGA,Uganda,Lake Victoria,Lake Victoria,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+754,UGA,Uganda,Rakai,Kabula,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+755,UGA,Uganda,Lira,Otuke,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+756,UGA,Uganda,Luwero,Katikamu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+757,UGA,Uganda,Mubende,Kassanda,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+758,UGA,Uganda,Kumi,Kumi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+759,UGA,Uganda,Kamwenge,Kitagwenda,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+760,UGA,Uganda,Kalangala,Kyamuswa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+761,UGA,Uganda,Mubende,Busujju,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+762,UGA,Uganda,Masindi,Bujenje,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+763,UGA,Uganda,Kaberamaido,Kalaki,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+764,UGA,Uganda,Nakasongola,Buruli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+765,UGA,Uganda,Mpigi,Butambala,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+766,UGA,Uganda,Moyo,Obongi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+767,UGA,Uganda,Kibale,Buyaga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+768,UGA,Uganda,Luwero,Bamunanika,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+769,UGA,Uganda,Kayunga,Bbaale,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+770,UGA,Uganda,Kyenjojo,Mwenge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+771,UGA,Uganda,Lira,Erute,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+772,UGA,Uganda,Kalangala,Bujumba,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+773,UGA,Uganda,Arua,Terego,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+774,UGA,Uganda,Kasese,Bukonjo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eastern Africa
+775,ZWE,Zimbabwe,Mashonaland East,Wedza,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+776,ZWE,Zimbabwe,Matabeleland North,Hwange,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,Southern Africa
+777,ZWE,Zimbabwe,Mashonaland East,Mutoko,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+778,ZWE,Zimbabwe,Harare,Harare,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Southern Africa
+779,ZWE,Zimbabwe,Manicaland,Chipinge,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,Southern Africa
+780,ZWE,Zimbabwe,Midlands,Gokwe South,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+781,ZWE,Zimbabwe,Mashonaland West,Kadoma,24,0,0,0,0,6,2,0,8,0,0,0,3,0,0,0,0,0,0,Southern Africa
+782,ZWE,Zimbabwe,Matabeleland North,Nkayi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+783,ZWE,Zimbabwe,Bulawayo,Bulawayo,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Southern Africa
+784,ZWE,Zimbabwe,Mashonaland West,Hurungwe,8,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+785,ZWE,Zimbabwe,Matabeleland South,Umzingwane,4,0,1,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,Southern Africa
+786,ZWE,Zimbabwe,Mashonaland Central,Rushinga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+787,ZWE,Zimbabwe,Matabeleland North,Tsholotsho,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+788,ZWE,Zimbabwe,Mashonaland Central,Bindura,8,0,0,0,0,0,2,0,1,0,0,0,6,0,0,0,0,0,0,Southern Africa
+789,ZWE,Zimbabwe,Mashonaland Central,Shamva,5,0,0,0,0,0,2,0,1,0,0,0,4,0,0,0,0,0,0,Southern Africa
+790,ZWE,Zimbabwe,Mashonaland East,Seke,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+791,ZWE,Zimbabwe,Midlands,Kwekwe,26,0,1,0,0,4,5,0,12,2,0,0,3,1,0,0,1,0,0,Southern Africa
+792,ZWE,Zimbabwe,Matabeleland South,Bulilima (North),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+793,ZWE,Zimbabwe,Mashonaland West,Makonde,14,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,0,Southern Africa
+794,ZWE,Zimbabwe,Mashonaland East,Goromonzi,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Southern Africa
+795,ZWE,Zimbabwe,Masvingo,Gutu,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Southern Africa
+796,ZWE,Zimbabwe,Mashonaland East,Marondera,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+797,ZWE,Zimbabwe,Matabeleland South,Insiza,7,0,0,0,0,0,1,0,2,0,0,0,4,0,0,0,0,0,0,Southern Africa
+798,ZWE,Zimbabwe,Matabeleland North,Bubi,4,0,0,0,0,0,0,0,3,0,0,0,1,0,1,0,0,0,0,Southern Africa
+799,ZWE,Zimbabwe,Matabeleland North,Umguza,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+800,ZWE,Zimbabwe,Manicaland,Nyanga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+801,ZWE,Zimbabwe,Manicaland,Mutasa,4,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,Southern Africa
+802,ZWE,Zimbabwe,Mashonaland East,Murehwa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+803,ZWE,Zimbabwe,Midlands,Gweru,5,0,0,0,0,1,1,0,2,0,0,0,1,0,0,0,0,0,0,Southern Africa
+804,ZWE,Zimbabwe,Matabeleland South,Matobo,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Southern Africa
+805,ZWE,Zimbabwe,Masvingo,Mwenezi,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+806,ZWE,Zimbabwe,Mashonaland Central,Centenary,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Southern Africa
+807,ZWE,Zimbabwe,Mashonaland East,Mudzi,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+808,ZWE,Zimbabwe,Matabeleland South,Beitbridge,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+809,ZWE,Zimbabwe,Mashonaland West,Zvimba,13,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+810,ZWE,Zimbabwe,Mashonaland Central,Mazowe,15,0,0,0,0,12,0,0,2,0,0,0,0,0,0,0,0,0,0,Southern Africa
+811,ZWE,Zimbabwe,Mashonaland West,Kariba,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+812,ZWE,Zimbabwe,Matabeleland North,Lupane,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+813,ZWE,Zimbabwe,Manicaland,Chimanimani,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+814,ZWE,Zimbabwe,Mashonaland Central,Guruve,3,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+815,ZWE,Zimbabwe,Matabeleland South,Gwanda,4,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,Southern Africa
+816,ZWE,Zimbabwe,Midlands,Chirumhanzu,8,0,0,0,0,6,1,0,2,0,0,0,0,0,0,0,0,0,0,Southern Africa
+817,ZWE,Zimbabwe,Mashonaland East,Chikomba,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+818,ZWE,Zimbabwe,Masvingo,Chivi,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+819,ZWE,Zimbabwe,Matabeleland North,Binga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+820,ZWE,Zimbabwe,Midlands,Shurugwi,16,0,0,0,0,14,0,0,0,0,0,0,0,0,1,0,0,0,0,Southern Africa
+821,ZWE,Zimbabwe,Manicaland,Makoni,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+822,ZWE,Zimbabwe,Midlands,Zvishavane,6,0,2,0,0,0,0,0,1,1,0,0,2,0,1,0,0,0,0,Southern Africa
+823,ZWE,Zimbabwe,Midlands,Gokwe North,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+824,ZWE,Zimbabwe,Masvingo,Masvingo,5,0,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Southern Africa
+825,ZWE,Zimbabwe,Midlands,Mberengwa,5,0,0,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0,0,Southern Africa
+826,ZWE,Zimbabwe,Manicaland,Buhera,5,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,Southern Africa
+827,ZWE,Zimbabwe,Matabeleland South,Mangwe (South),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+828,ZWE,Zimbabwe,Mashonaland West,Chegutu,13,0,0,0,0,2,0,0,4,0,0,0,2,0,3,0,0,0,0,Southern Africa
+829,ZWE,Zimbabwe,Masvingo,Zaka,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+830,ZWE,Zimbabwe,Mashonaland Central,Mount Darwin,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+831,ZWE,Zimbabwe,Masvingo,Bikita,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Southern Africa
+832,ZWE,Zimbabwe,Manicaland,Mutare,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+833,ZWE,Zimbabwe,Mashonaland East,UMP,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
+834,ZWE,Zimbabwe,Masvingo,Chiredzi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Southern Africa
