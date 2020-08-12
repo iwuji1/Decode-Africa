@@ -1,48 +1,48 @@
-,Region,countryname,mines,aluminum_mine,asbestos_mine,bariumbarite_mine,beryllium_mine,chromium_mine,copper_mine,diamond_mine,gold_mine,iron_mine,lead_mine,manganese_mine,nickel_mine,phosphorusphosphates_mine,platinum_mine,ree_mine,silver_mine,tin_mine,tungsten_mine
-0,Northern Africa,Algeria,224,0,0,18,0,0,20,0,3,32,62,3,0,6,2,0,0,2,2
-1,Southern Africa,Angola,13,1,0,0,0,0,3,1,0,4,0,0,0,2,0,0,0,0,0
-2,Western Africa,Benin,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-3,Southern Africa,Botswana,39,0,1,0,0,0,8,3,1,0,0,6,6,0,0,0,0,0,0
-4,Western Africa,Burkina Faso,13,1,0,0,0,0,0,0,4,0,0,2,2,1,0,0,0,0,0
-5,Eastern Africa,Burundi,9,0,0,0,0,1,3,0,0,0,0,0,8,0,1,1,0,0,0
-6,Central Africa,Cameroon,11,9,0,0,0,1,0,0,0,2,0,0,0,0,1,0,0,0,0
-7,Central Africa,Central African Republic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-8,Central Africa,Chad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-9,Western Africa,Cote d'Ivoire,21,0,0,0,0,0,0,0,6,1,0,11,2,0,0,0,0,0,0
-10,Central Africa,Democratic Republic of the Congo,116,1,0,0,0,0,80,0,8,0,0,2,1,1,0,0,0,13,4
-11,Eastern Africa,Djibouti,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-12,Northern Africa,Egypt,198,3,0,0,0,1,9,0,13,21,7,4,0,22,0,1,0,0,0
-13,Western Africa,Equatorial Guinea,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-14,Eastern Africa,Eritrea,13,0,0,0,0,0,2,0,0,1,1,0,0,0,0,0,0,0,0
-15,Eastern Africa,Ethiopia,27,0,0,0,0,0,1,0,4,0,0,0,1,1,3,0,0,0,0
-16,Western Africa,Gabon,14,0,0,0,0,0,0,0,0,0,0,7,0,0,0,1,0,0,0
-17,Western Africa,Gambia,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-18,Western Africa,Ghana,73,16,0,0,0,1,1,1,26,1,0,24,1,0,2,0,1,0,0
-19,Western Africa,Guinea,30,18,0,0,0,0,0,1,7,3,0,0,0,0,0,0,0,0,0
-20,Western Africa,Guinea-Bissau,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-21,Eastern Africa,Kenya,22,0,0,0,0,0,0,0,4,0,2,3,0,0,0,2,1,0,0
-22,Southern Africa,Lesotho,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
-23,Western Africa,Liberia,17,0,0,0,0,0,0,0,1,14,0,0,0,0,0,0,0,0,0
-24,Northern Africa,Libya,56,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
-25,Eastern Africa,Madagascar,57,6,0,0,5,9,0,0,7,0,0,0,8,0,2,0,0,0,0
-26,Southern Africa,Malawi,12,3,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
-27,Western Africa,Mali,23,1,0,0,0,0,0,1,4,0,0,3,0,2,0,0,0,0,0
-28,Western Africa,Mauritania,9,0,0,0,0,0,1,0,1,6,0,0,0,0,0,1,0,0,0
-29,Northern Africa,Morocco,106,1,0,4,0,0,4,0,0,3,20,23,1,34,0,0,10,0,0
-30,Southern Africa,Mozambique,28,4,2,0,0,0,1,0,2,1,0,2,0,0,0,1,0,0,0
-31,Southern Africa,Namibia,70,0,0,0,1,0,22,0,3,0,8,1,0,1,0,2,1,6,4
-32,Western Africa,Niger,18,0,0,0,0,0,0,0,3,1,0,1,0,1,1,0,0,5,0
-33,Western Africa,Nigeria,15,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,7,0
-34,Central Africa,Republic of Congo,11,0,0,0,0,0,2,0,1,0,4,2,0,0,0,0,0,0,0
-35,Eastern Africa,Rwanda,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
-36,Western Africa,Senegal,12,1,0,0,0,0,0,0,1,1,0,0,0,9,0,0,0,0,0
-37,Western Africa,Sierra Leone,22,5,0,0,0,0,0,1,0,1,0,0,0,0,9,0,0,0,0
-38,Southern Africa,South Africa,693,3,24,0,2,74,59,15,270,23,11,32,33,16,71,2,20,12,2
-39,Northern Africa,Sudan,19,0,1,1,0,6,2,0,4,1,0,1,0,1,0,0,0,0,1
-40,Southern Africa,Swaziland,9,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
-41,Eastern Africa,Tanzania,65,1,0,0,0,1,12,3,4,3,0,2,2,3,1,0,1,1,0
-42,Western Africa,Togo,5,0,0,0,0,0,0,0,0,1,0,0,0,4,0,0,0,0,0
-43,Northern Africa,Tunisia,64,0,0,0,0,0,0,0,0,4,19,0,0,37,0,0,0,0,0
-44,Eastern Africa,Uganda,27,0,0,0,4,2,2,0,1,0,0,0,1,1,1,0,0,0,2
-45,Southern Africa,Zambia,113,0,0,0,0,0,45,1,1,0,7,0,3,0,0,0,1,1,0
-46,Southern Africa,Zimbabwe,257,0,9,0,0,62,23,1,52,4,0,0,27,4,8,0,2,4,2
+Region,countryname,mines,aluminum_mine,asbestos_mine,bariumbarite_mine,beryllium_mine,chromium_mine,copper_mine,diamond_mine,gold_mine,iron_mine,lead_mine,manganese_mine,nickel_mine,phosphorusphosphates_mine,platinum_mine,ree_mine,silver_mine,tin_mine,tungsten_mine
+Northern Africa,Algeria,224,0,0,18,0,0,20,0,3,32,62,3,0,6,2,0,0,2,2
+Southern Africa,Angola,13,1,0,0,0,0,3,1,0,4,0,0,0,2,0,0,0,0,0
+Western Africa,Benin,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Southern Africa,Botswana,39,0,1,0,0,0,8,3,1,0,0,6,6,0,0,0,0,0,0
+Western Africa,Burkina Faso,13,1,0,0,0,0,0,0,4,0,0,2,2,1,0,0,0,0,0
+Eastern Africa,Burundi,9,0,0,0,0,1,3,0,0,0,0,0,8,0,1,1,0,0,0
+Central Africa,Cameroon,11,9,0,0,0,1,0,0,0,2,0,0,0,0,1,0,0,0,0
+Central Africa,Central African Republic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Central Africa,Chad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Western Africa,Cote d'Ivoire,21,0,0,0,0,0,0,0,6,1,0,11,2,0,0,0,0,0,0
+Central Africa,Democratic Republic of the Congo,116,1,0,0,0,0,80,0,8,0,0,2,1,1,0,0,0,13,4
+Eastern Africa,Djibouti,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Northern Africa,Egypt,198,3,0,0,0,1,9,0,13,21,7,4,0,22,0,1,0,0,0
+Western Africa,Equatorial Guinea,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eastern Africa,Eritrea,13,0,0,0,0,0,2,0,0,1,1,0,0,0,0,0,0,0,0
+Eastern Africa,Ethiopia,27,0,0,0,0,0,1,0,4,0,0,0,1,1,3,0,0,0,0
+Western Africa,Gabon,14,0,0,0,0,0,0,0,0,0,0,7,0,0,0,1,0,0,0
+Western Africa,Gambia,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Western Africa,Ghana,73,16,0,0,0,1,1,1,26,1,0,24,1,0,2,0,1,0,0
+Western Africa,Guinea,30,18,0,0,0,0,0,1,7,3,0,0,0,0,0,0,0,0,0
+Western Africa,Guinea-Bissau,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eastern Africa,Kenya,22,0,0,0,0,0,0,0,4,0,2,3,0,0,0,2,1,0,0
+Southern Africa,Lesotho,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+Western Africa,Liberia,17,0,0,0,0,0,0,0,1,14,0,0,0,0,0,0,0,0,0
+Northern Africa,Libya,56,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+Eastern Africa,Madagascar,57,6,0,0,5,9,0,0,7,0,0,0,8,0,2,0,0,0,0
+Southern Africa,Malawi,12,3,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+Western Africa,Mali,23,1,0,0,0,0,0,1,4,0,0,3,0,2,0,0,0,0,0
+Western Africa,Mauritania,9,0,0,0,0,0,1,0,1,6,0,0,0,0,0,1,0,0,0
+Northern Africa,Morocco,106,1,0,4,0,0,4,0,0,3,20,23,1,34,0,0,10,0,0
+Southern Africa,Mozambique,28,4,2,0,0,0,1,0,2,1,0,2,0,0,0,1,0,0,0
+Southern Africa,Namibia,70,0,0,0,1,0,22,0,3,0,8,1,0,1,0,2,1,6,4
+Western Africa,Niger,18,0,0,0,0,0,0,0,3,1,0,1,0,1,1,0,0,5,0
+Western Africa,Nigeria,15,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,7,0
+Central Africa,Republic of Congo,11,0,0,0,0,0,2,0,1,0,4,2,0,0,0,0,0,0,0
+Eastern Africa,Rwanda,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+Western Africa,Senegal,12,1,0,0,0,0,0,0,1,1,0,0,0,9,0,0,0,0,0
+Western Africa,Sierra Leone,22,5,0,0,0,0,0,1,0,1,0,0,0,0,9,0,0,0,0
+Southern Africa,South Africa,693,3,24,0,2,74,59,15,270,23,11,32,33,16,71,2,20,12,2
+Northern Africa,Sudan,19,0,1,1,0,6,2,0,4,1,0,1,0,1,0,0,0,0,1
+Southern Africa,Swaziland,9,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Eastern Africa,Tanzania,65,1,0,0,0,1,12,3,4,3,0,2,2,3,1,0,1,1,0
+Western Africa,Togo,5,0,0,0,0,0,0,0,0,1,0,0,0,4,0,0,0,0,0
+Northern Africa,Tunisia,64,0,0,0,0,0,0,0,0,4,19,0,0,37,0,0,0,0,0
+Eastern Africa,Uganda,27,0,0,0,4,2,2,0,1,0,0,0,1,1,1,0,0,0,2
+Southern Africa,Zambia,113,0,0,0,0,0,45,1,1,0,7,0,3,0,0,0,1,1,0
+Southern Africa,Zimbabwe,257,0,9,0,0,62,23,1,52,4,0,0,27,4,8,0,2,4,2
